@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1>📖 Hello world backend</h>
+  <h1>Hello world backend</h>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -29,11 +29,11 @@
 
 **Hello world backend:** is the back is a hello world app using rails api.
 
-- Frontend link: https://github.com/yashodhicy/hello-react-front-end.git
+- Frontend link: <a href="https://github.com/matee-safi/hello-world-frontend.git" target="_blank">https://github.com/matee-safi/hello-world-frontend.git</a>
 
 # Screenshots
 end-point
-![Alt text](image.png)
+![Alt text](Api screenshot.png)
 ## 🛠 Built With <a name="built-with"></a>
 
   <ul>
@@ -65,7 +65,7 @@ In order to run this project you need:
 1. Install Rails
 2. Clone this repo 
 ```
-git clone https://github.com/yashodhicy/hello-rails-back-end.git
+git clone https://github.com/matee-safi/hello-world-backend.git
 ```
 
 To run the project, execute the following command:
@@ -82,15 +82,15 @@ rails console
 
 ```
 # Create the first greeting
-Greeting.create(content: "Hello, world!")
+Greeting.create(content: "Hello")
 # Create the second greeting
-Greeting.create(content: "Welcome to our app!")
+Greeting.create(content: "Hola")
 # Create the third greeting
-Greeting.create(content: "Hi there!")
+Greeting.create(content: "Ola")
 # Create the fourth greeting
-Greeting.create(content: "Greetings from Rails!")
+Greeting.create(content: "Salaam")
 # Create the fifth greeting
-Greeting.create(content: "Good day!")
+Greeting.create(content: "Salut")
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -99,11 +99,9 @@ Greeting.create(content: "Good day!")
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 : **Yashodhi Chathurangi**
+👤 : **Matee Safi**
 
-- GitHub: [@githubhandle](https://github.com/yashodhicy)
-- Twitter: [@twitterhandle](https://twitter.com/Yashichathucy)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yashodhichathurangi/)
+- GitHub: [@matee-safi](https://github.com/matee-safi)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -131,7 +129,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Please support this project and be a part of something meaningful and impactful. Your contribution can make a significant difference and help us achieve our goals faster.
+If you like this project please give us a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,20 +137,7 @@ Please support this project and be a part of something meaningful and impactful.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Grateful to all for inspiring codebase, your dedication and creativity made a lasting impact on our success. Thank you!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## :question: FAQ <a name="faq"></a>
-
-- **Can I fork and reuse this repository?**
-
-Absolutely! Please feel free to fork and reuse this repository for your own projects.
-
-- **Is it okay to improve this repository? Will my changes be accepted?**
-
-Definitely! We welcome any improvements or new ideas you may have. If your changes are good and align with the project's goals, we would be happy to accept them.
-
+I would like to thank microverse for making this possible
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
