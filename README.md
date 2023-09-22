@@ -20,7 +20,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [:question: FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -30,11 +29,6 @@
 **Hello world backend:** is the back is a hello world app using rails api.
 
 - Frontend link: <a href="https://github.com/matee-safi/hello-world-frontend.git" target="_blank">https://github.com/matee-safi/hello-world-frontend.git</a>
-
-# Screenshots
-end-point
-![Alt text](Api screenshot.png)
-## 🛠 Built With <a name="built-with"></a>
 
   <ul>
     <li>Ruby</li>
@@ -145,6 +139,6 @@ I would like to thank microverse for making this possible
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
